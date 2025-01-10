@@ -3,9 +3,7 @@
 Student Management System:
 
 A simple CRUD application to manage student data using Hibernate ORM and JPA annotations.
-
 Features include modular design with layered architecture: Entity (StudentEx), DAO, Service, and Controller. 
-
 Users can insert student details into a database by running the StudentController. 
 
 
